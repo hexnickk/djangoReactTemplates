@@ -1,0 +1,15 @@
+{
+  "name": "assets",
+  "version": "1.0.0",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^17.0.39",
+    "@types/react-dom": "^17.0.11",
+    "parcel": "^2.3.0"
+  },
+  "dependencies": {
+    "@parcel/transformer-react-refresh-wrap": "^2.3.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}

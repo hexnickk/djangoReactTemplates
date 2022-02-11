@@ -1,0 +1,6 @@
+# Intelij Idea files
+.idea
+djangoReactTemplates.iml
+
+# DB files
+db.sqlite3
