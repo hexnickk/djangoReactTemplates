@@ -1,3 +1,5 @@
+Demo for this article - https://dev.to/kozlovzxc/django-templates-with-react-4hko
+
 ## Installation
 
 Order of installation can be any.
